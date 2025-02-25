@@ -1,0 +1,375 @@
+{
+    "company": {
+      "name": "Energy Spa",
+      "description": "En Energy Spa ofrecemos servicios rejuvenecedores como masajes, sauna y tratamientos faciales que revitalizan tu cuerpo y mente. Ven y disfruta de un momento de relajación y bienestar.",
+      "location": {
+        "address": "Juan Martínez 2145, Iquique, Tarapacá, Chile",
+        "mapReference": "Entre Hernán Fuenzalida y Diego Portales (cerca de Playa Cavancha)"
+      },
+      "contact": {
+        "phone": "+56 9 8766 7171",
+        "email": "isabelspa171@gmail.com"
+      },
+      "hours": {
+        "mondayToFriday": "10 AM – 8 PM",
+        "saturday": "10 AM – 7 PM",
+        "sunday": "Cerrado"
+      },
+      "paymentInfo": {
+        "method": "Transferencia bancaria",
+        "details": {
+          "accountName": "Ruby Montoya",
+          "rut": "8.172.885-2"
+        }
+      },
+      "notes": "Algunos precios pueden variar según evaluación previa."
+    },
+  
+    "services": {
+      "paquetesEspeciales": [
+        {
+          "name": "BELLA SPA",
+          "includes": [
+            "Sauna o exfoliación corporal",
+            "Jacuzzi",
+            "Masaje relajante",
+            "Rejuvenecimiento facial",
+            "Manicura express",
+            "Lavado y secado capilar",
+            "Snack saludable"
+          ],
+          "price": {
+            "1 persona": "$130.000",
+            "2 personas": "$230.000"
+          }
+        },
+        {
+          "name": "BETANIA SPA (PACK RELAX)",
+          "includes": [
+            "Sauna seco con eucaliptus",
+            "Masaje relajante o descontracturante",
+            "Envoltura de chocolate o algas marinas",
+            "Limpieza e hidratación facial",
+            "Snack saludable"
+          ],
+          "price": {
+            "1 persona": "$80.000",
+            "2 personas": "$130.000"
+          }
+        },
+        {
+          "name": "NATURAL PACK",
+          "includes": [
+            "Masaje con pindas de hierbas naturales",
+            "Exfoliación corporal con esencia de coco",
+            "Alineación con cuarzos (iman para desestresar)",
+            "Snack saludable"
+          ],
+          "price": {
+            "1 persona": "$70.000",
+            "2 personas": "$120.000"
+          }
+        },
+        {
+          "name": "CHOCOLATERAPIA",
+          "includes": [
+            "Exfoliación corporal de chocolate",
+            "Masaje relajante con aceites de chocolate",
+            "Envoltura con barro de chocolate",
+            "Snack saludable"
+          ],
+          "price": {
+            "1 persona": "$80.000",
+            "2 personas": "$130.000"
+          }
+        },
+        {
+          "name": "PACK ESPECIAL",
+          "includes": [
+            "Limpieza y revitalización facial",
+            "Hidratación de manos",
+            "Lifting de pestañas",
+            "Manicure",
+            "Snack especial"
+          ],
+          "price": {
+            "1 persona": "$70.000",
+            "2 personas": "$120.000"
+          }
+        },
+        {
+          "name": "PAREJAS SPA",
+          "includes": [
+            "Sauna con eucaliptos",
+            "Masaje descontracturante",
+            "Reflexología podal",
+            "Jacuzzi con espuma",
+            "Snack especial"
+          ],
+          "price": {
+            "2 personas": "$90.000"
+          }
+        },
+        {
+          "name": "MAGIC SPA",
+          "includes": [
+            "Sauna con eucaliptos",
+            "Masaje relajante con bambú",
+            "Drenaje para piernas cansadas",
+            "Limpieza profunda y renovación celular",
+            "Snack saludable"
+          ],
+          "price": {
+            "2 personas": "$90.000"
+          }
+        },
+        {
+          "name": "ESENCIA SPA (PAREJAS)",
+          "includes": [
+            "Sauna con eucalipto",
+            "Masaje con piedras calientes",
+            "Masaje craneal",
+            "Jacuzzi con espuma"
+          ],
+          "price": {
+            "2 personas": "$90.000"
+          }
+        },
+        {
+          "name": "SPA ROMÁNTICO",
+          "includes": [
+            "Sauna con eucaliptos",
+            "Masaje relajante",
+            "Masaje craneal",
+            "Cuencos tibetanos",
+            "Jacuzzi con espuma"
+          ],
+          "price": {
+            "2 personas": "$130.000"
+          }
+        },
+        {
+          "name": "SPA AMIGAS",
+          "includes": [
+            "Sauna con eucaliptos",
+            "Masaje con bambú",
+            "Limpieza facial y oxigenoterapia",
+            "Manicure",
+            "Snack saludable"
+          ],
+          "price": {
+            "2 personas": "$130.000"
+          }
+        },
+        {
+          "name": "BLACK SPA",
+          "includes": [
+            "Sauna con piedras volcánicas",
+            "Masaje con piedras calientes",
+            "Armonización con péndulo hebreo",
+            "Jacuzzi",
+            "Snack saludable"
+          ],
+          "price": {
+            "1 persona": "$90.000",
+            "2 personas": "$130.000"
+          }
+        },
+        {
+          "name": "BLUE SPA",
+          "includes": [
+            "Sauna con piedras volcánicas",
+            "Masaje descontracturante",
+            "Envoltura con algas marinas",
+            "Snack saludable"
+          ],
+          "price": {
+            "1 persona": "$70.000",
+            "2 personas": "$110.000"
+          }
+        },
+        {
+          "name": "CALMA SPA",
+          "includes": [
+            "Sauna con eucaliptos",
+            "Jacuzzi con espuma",
+            "Masaje descontracturante",
+            "Rejuvenecimiento facial",
+            "Lifting de pestañas",
+            "Snack saludable"
+          ],
+          "price": {
+            "1 persona": "$110.000"
+          }
+        },
+        {
+          "name": "SPA BLISS",
+          "includes": [
+            "Exfoliación de lavanda",
+            "Masaje de relajación con pindas de lavanda",
+            "Jacuzzi",
+            "Snack saludable"
+          ],
+          "price": {
+            "1 persona": "$70.000"
+          }
+        },
+        {
+          "name": "PACK ARMONÍA NATURAL",
+          "includes": [
+            "Masaje de relajación",
+            "Alineación de chakras con péndulo hebreo",
+            "Jacuzzi con cuarzos de florecimiento",
+            "Cuencos tibetanos",
+            "Snack especial"
+          ],
+          "price": {
+            "1 persona": "$90.000"
+          }
+        }
+      ],
+  
+      "tratamientosCorporales": [
+        {
+          "name": "MASAJE DESCONTRACTURANTE",
+          "description": "Enfocado en zonas con tensión muscular (espalda, cuello) para relajación y salud mental.",
+          "durations": [
+            { "time": "60 minutos", "price": "$30.000" },
+            { "time": "90 minutos", "price": "$40.000" }
+          ]
+        },
+        {
+          "name": "MASAJE RELAJANTE",
+          "description": "Reduce estrés, mejora circulación, alivia músculos, equilibra mente-cuerpo.",
+          "durations": [
+            { "time": "60 minutos", "price": "$30.000" },
+            { "time": "90 minutos", "price": "$40.000" }
+          ]
+        },
+        {
+          "name": "MASAJE CON PIEDRAS CALIENTES",
+          "description": "Técnica tradicional con piedras a distintas temperaturas para activar energía vital.",
+          "durations": [
+            { "time": "60 minutos", "price": "$30.000" },
+            { "time": "90 minutos", "price": "$40.000" }
+          ]
+        },
+        {
+          "name": "MASAJE CON VENTOSAS",
+          "description": "Reduce dolor por contracturas, edema en piernas/brazos, ayuda contra celulitis.",
+          "durations": [
+            { "time": "60 minutos", "price": "$40.000" }
+          ]
+        },
+        {
+          "name": "MASAJE CON ALINEACIÓN DE CHAKRAS",
+          "description": "Vitaliza el espíritu mediante la alineación energética.",
+          "durations": [
+            { "time": "90 minutos", "price": "$40.000" }
+          ]
+        }
+      ],
+  
+      "tratamientosFaciales": [
+        {
+          "name": "REJUVENECIMIENTO FACIAL DERMAPEN",
+          "benefits": [
+            "Reafirma la piel",
+            "Reduce acné",
+            "Atenúa arrugas, poros y flacidez"
+          ],
+          "pricePorSesion": "$40.000"
+        },
+        {
+          "name": "HOLLYWOOD PEEL (PEELING DE CARBÓN)",
+          "benefits": [
+            "Rejuvenecimiento",
+            "Mejora luminosidad",
+            "Regula piel grasa",
+            "Despigmenta manchas"
+          ],
+          "description": "No invasivo, rápido e indoloro."
+        },
+        {
+          "name": "TRATAMIENTO GLOW LIFT",
+          "benefits": [
+            "Anti-edad",
+            "Reduce manchas",
+            "Atenúa arrugas y flacidez"
+          ],
+          "duration": "90 minutos",
+          "price": "$40.000"
+        },
+        {
+          "name": "REJUVENECIMIENTO DE MANOS",
+          "includes": [
+            "Dermoabrasión con arbutin",
+            "Parafinas hidratantes",
+            "Blanqueamiento",
+            "Despigmentación"
+          ]
+        },
+        {
+          "name": "TRATAMIENTO PESTAÑAS HERMOSAS",
+          "description": "Eleva y acentúa la curvatura de pestañas de forma natural.",
+          "price": "$20.000"
+        }
+      ],
+  
+      "tratamientosReductores": [
+        {
+          "name": "REDUCTIVO CON MADEROTERAPIA",
+          "benefits": [
+            "Reduce centímetros",
+            "Elimina toxinas",
+            "Moldea y tonifica la figura"
+          ],
+          "price": "Sujeto a evaluación"
+        },
+        {
+          "name": "REDUCTIVO Y MODELANTE",
+          "description": "Reduce grasa localizada y restaura la tensión natural de la piel."
+        },
+        {
+          "name": "HIFU LIPOSONIX",
+          "description": "Tratamiento para grasa localizada difícil de eliminar (abdomen, brazos, celulitis).",
+          "pricePorSesion": "$60.000"
+        },
+        {
+          "name": "REDUCTIVO Y FLACIDEZ CORPORAL",
+          "includes": [
+            "Lipoláser",
+            "Cavitación",
+            "Electroestimulación",
+            "Levantamiento de glúteos",
+            "Masaje reductor"
+          ],
+          "price": "Sujeto a evaluación"
+        },
+        {
+          "name": "LEVANTAMIENTO DE GLÚTEOS",
+          "description": "Modelación y reafirmación con copas de succión."
+        }
+      ],
+  
+      "otrosServicios": [
+        {
+          "name": "DEPILACIÓN DEFINITIVA (TRILASER)",
+          "description": "Tecnología no invasiva y sin dolor."
+        },
+        {
+          "name": "GIFTCARD DIGITAL O FÍSICA",
+          "description": "Ideal para regalar relajación."
+        },
+        {
+          "name": "PACK POST-OPERATORIO",
+          "includes": [
+            "Ultrasonido",
+            "Drenaje linfático manual"
+          ],
+          "pricePara12Sesiones": "Consultar"
+        }
+      ]
+    }
+  }
+  
